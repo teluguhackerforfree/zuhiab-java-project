@@ -115,7 +115,7 @@
   <div class="logo">Wecome to World of Devops</div>
 
   <div class="hero">
-    <h1> JAVEED SERVER2 DEPLOYMENT</h1>
+    <h1> Zuhaib SERVER2 DEPLOYMENT</h1>
 
     <h2>
       Hi Team! We are implementing CI/CD workflow using GitHub Server2.  
